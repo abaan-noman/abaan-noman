@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I am a third-year computer science student at Carleton University, passionate about exploring the realms of coding, machine learning, and building robust applications
+⚡ I am a fourth-year computer science student at Carleton University, passionate about exploring the realms of coding, machine learning, and building robust applications
 
 
 ## 🌐 Socials:
