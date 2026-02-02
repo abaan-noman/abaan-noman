@@ -1,6 +1,6 @@
-# 💫 About Me:
-⚡ Fourth-year computer science student at Carleton University
-💼 Current DevOps Engineer Intern @ Kinaxis
+## 💫 About Me:
+⚡ Fourth-year computer science student at Carleton University  
+💼 Current DevOps Engineer Intern @ Kinaxis  
 🎬 Prev. @ HBO (ML Engineer Intern), Warner Bros. Discovery (SWE Intern)
 
 ## 🌐 Socials:
